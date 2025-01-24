@@ -1,0 +1,20 @@
+.class {
+    background-color: RGB(130 90 30);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#a { color: blue;
+    font-size: 36px}
+
+.id {
+    background-color: lightgreen;
+    font-size: 24px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#idaswell {
+    font-weight: bold;
+}
